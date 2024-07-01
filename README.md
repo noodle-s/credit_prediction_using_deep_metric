@@ -1,5 +1,4 @@
-# Deep metric을 사용한 개인 신용 예측 모델
-![deep_metric을 사용한 개인 신용 예측 모델.pdf](deep_metric을 사용한 개인 신용 예측 모델.pdf)
+# deep metric을 사용한 개인 신용 예측 모델
 
 ## introduction
 개인이 신용 대출, 담보 대출 등의 행위로 부채가 생겼을 때 정해진 기간
