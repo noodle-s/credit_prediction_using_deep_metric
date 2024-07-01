@@ -29,7 +29,7 @@ A 저축은행 데이터를 Deep Metric 모델을 사용하여 학습하여 변
 보여지는 바와 같이 원 데이터 공간에서의 데이터분포는 정상과 연체가 뒤섞여 있어서 분류하기에 적합하지 않으나 Deep Metric으로 변
 환된 공간에서의 데이터 분포는 같은 부류의 데이터들은 가깝게 위치하고 다른 부류의 데이터들은 서로 멀리 떨어져 있는 특징을 잘 보여준다.
 
-![data visualization.PNG](data visualization.PNG)
+[data visualization.PNG](data visualization.PNG)
 
 기존 신용 예측 모델들과 Deep Metric LS를 사용한 실험
 결과들의 비교를 보여준다. Deep Metric을 적용한 모델이 기존의 다른 모델보
@@ -39,4 +39,4 @@ A 저축은행 데이터를 Deep Metric 모델을 사용하여 학습하여 변
 과를 보였다. 그리고 그림 5와 그림 6에서 볼 수 있듯이 제안한 모델을 사용하
 였을 때 결과에 대한 AUC 분포가 다른 모델들에 비해 높은 것을 확인하였다.
 
-![result graph.PNG](result graph.PNG)
+[result graph.PNG](result graph.PNG)
